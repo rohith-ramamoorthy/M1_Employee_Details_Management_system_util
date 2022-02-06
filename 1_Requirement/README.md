@@ -1,5 +1,5 @@
 # Description
-Empolyee Details Management system isa project that manages and store the details of the empolye's in the organization. the system help to keep the employe information on up to date. The new employe detail can added and old employe detail can modified.
+Empolyee Details Management system is a project that manages and store the details of the empolye's in the organization. the system help to keep the employe information on up to date. The new employe detail can added and old employe detail can modified.
 
 The project titled Employee Details Management System is a employe information manage software. The project "Empolyee Details Management System" is develop in c, wherw it mainly used for adding new employe and updating new information about the old employes. The project gives the clear information of the employe in the orgamization which using is the project.  
 
