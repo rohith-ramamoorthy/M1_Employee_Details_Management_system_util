@@ -1,0 +1,3 @@
+Enter name:ram
+Enter age:21
+Enter basic salary:30,000
