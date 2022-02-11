@@ -4,29 +4,6 @@ Employee Details Management system is a project that manages and store the detai
 
 The project titled Employee Details Management System is a employee information manage software. The project "Employee Details Management System" is develop in c, where it mainly used for adding new employee and updating new information about the old employees. The project gives the clear information of the employee in the organization which using is the project.
 
-# High Level Requirement
-.C Language
-
-.OS Windows
-
-.OS Linux
-
-.Hard Disk
-
-.4GB Ram
-
-# Low Level Requirement
-.Add Details
-
-.List Details
-
-.Modify Details
-
-.Delete Details
-
-.Exit 
-
-
 
 # SWOT Analysis
 # Stength
@@ -81,3 +58,25 @@ The Employe details management system is nowadays essential for schools, college
 
 # How:
 This project is implemented to maintain the recod or details of the employe by entering employe or staff id as input.
+
+# High Level Requirement
+.C Language
+
+.OS Windows
+
+.OS Linux
+
+.Hard Disk
+
+.4GB Ram
+
+# Low Level Requirement
+.Add Details
+
+.List Details
+
+.Modify Details
+
+.Delete Details
+
+.Exit 
