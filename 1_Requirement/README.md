@@ -65,7 +65,7 @@ This project is implemented to maintain the recod or details of the employe by e
  |----| ------------------ | ------------------ |
  | HR01 | Visual Studio code Platform| Software |
  | HR02 | windows or linux OS | Software |
- | HR03 | Hard disk  | hardware |
+ | HR03 | Hard disk  | Hardware |
 
 
 # LOW Level Requirements:
