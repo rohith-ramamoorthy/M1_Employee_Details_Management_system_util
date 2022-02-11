@@ -1,14 +1,14 @@
 # M1_Employee_Details_Management_system_util
-.0-Ceertificate
+.0_Certificate
 
-.1-Requirement
+.1_Requirement
 
-.2-Architecture
+.2_Architecture
 
-.3-Implementation
+.3_Implementation
 
-.4-TestAndOutput
+.4_TestAndOutput
 
-.5-Report
+.5_Report
 
-.6-ImageAndVideos
+.6_ImageAndVideos
