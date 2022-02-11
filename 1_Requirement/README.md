@@ -45,19 +45,19 @@ The employee details mamangement system now send and retrieve data from database
 
 # 4W's and 1H
 # Who:
-This Employe details Management System is an application is used by all the students, and staff who are having id's.
+This Employee details Management System is an application is used by all the students, and staff who are having id's.
 
 # What:
-Employe details Management Systems is software that helps to maintain a database that is useful to enter new records & Edit older record,Delete old record.
+Employee details Management Systems is software that helps to maintain a database that is useful to enter new records & Edit older record,Delete old record.
 
 # When:
-This Employe details Management System is very useful to maintain the very large number of details in easy way. It is very tedious to enter the records manually so here this project come into handy.
+This Employee details Management System is very useful to maintain the very large number of details in easy way. It is very tedious to enter the records manually so here this project come into handy.
 
 # Where:
-The Employe details management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of maintain the records.
+The Employee details management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of maintain the records.
 
 # How:
-This project is implemented to maintain the recod or details of the employe by entering employe or staff id as input.
+This project is implemented to maintain the recod or details of the employe by entering employee or staff id as input.
 
 
 # High Level Requirements:
