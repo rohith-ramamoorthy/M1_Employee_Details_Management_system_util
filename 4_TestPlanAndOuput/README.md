@@ -13,3 +13,6 @@
 |   TC_09  |   for listing record  | abc 12 5000       |  abc 12 5000     |  12 abc 5000   |  PASS  |  
 |   TC_10  |   for deleting record | abc               |  abc             |  abc           |  PASS  |  
 |   TC_11  |   for deleting record | abc               |  abc             |  abc           |  PASS  | 
+
+## OUTPUT
+![](
