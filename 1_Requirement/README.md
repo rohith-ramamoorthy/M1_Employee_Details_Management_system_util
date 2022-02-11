@@ -59,24 +59,20 @@ The Employe details management system is nowadays essential for schools, college
 # How:
 This project is implemented to maintain the recod or details of the employe by entering employe or staff id as input.
 
-# High Level Requirement
-.C Language
 
-.OS Windows
+# High Level Requirements:
+| ID | Description | Category |
+ |----| ------------------ | ------------------ |
+ | HR01 | Visual Studio code Platform| Software |
+ | HR02 | windows or linux OS | Software |
+ | HR03 | Hard disk  | software |
 
-.OS Linux
 
-.Hard Disk
-
-.4GB Ram
-
-# Low Level Requirement
-.Add Details
-
-.List Details
-
-.Modify Details
-
-.Delete Details
-
-.Exit 
+# LOW Level Requirements:
+| ID | Description |
+ |----| ------------------ |
+ | LR01 | Add Details |
+ | LR02 | List Details |
+ | LR03 | Modify Details |
+ | LR04 | Delete Details |
+ | LR05 | Exit |
