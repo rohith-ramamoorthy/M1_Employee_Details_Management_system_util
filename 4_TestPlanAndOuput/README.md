@@ -15,4 +15,4 @@
 |   TC_11  |   for deleting record | abc               |  abc             |  abc           |  PASS  | 
 
 ## OUTPUT
-![](6_ImageAndVideos/output%201.png)
+![ ](6_ImageAndVideos/output%201.png)
