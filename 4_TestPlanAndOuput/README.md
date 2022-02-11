@@ -15,4 +15,5 @@
 |   TC_11  |   for deleting record | abc               |  abc             |  abc           |  PASS  | 
 
 ## OUTPUT
+<img src="6_ImageAndVideos/output%201.png" width "100" height "100">
 ![ ](6_ImageAndVideos/output%201.png)
