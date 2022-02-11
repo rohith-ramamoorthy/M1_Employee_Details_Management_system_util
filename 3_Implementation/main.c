@@ -1,7 +1,7 @@
 
 #include "main.h"
 
-    char empname[40]; 
+    char emname[40]; 
  
     long int recsize; 
     
@@ -19,10 +19,10 @@
 another = 'y';
                 while(another == 'y'){
                     printf("Enter the employee name to modify: ");
-                    scanf("%s", empname);
+                    scanf("%s", emname);
                     rewind(fp);
                     while(fread(&e,recsize,1,fp)==1){ 
-                        if(strcmp(e.name,empname) == 0){ 
+                        if(strcmp(e.name,emname) == 0){ 
                             printf("\nEnter new name,age and bs: ");
                             scanf("%s%d%f",e.name,&e.age,&e.bs);
                             fseek(fp,-recsize,SEEK_CUR); 
@@ -42,11 +42,11 @@ another = 'y';
                 while(another == 'y'){
                     flush();
                     printf("\nEnter name of employee to delete: ");
-                    fgets(empname,40, stdin);
+                    fgets(emname,40, stdin);
                     ft = fopen("Temp.dat","wb");  
                     rewind(fp); 
                     while(fread(&e,recsize,1,fp) == 1){ 
-                        if(strcmp(e.name,empname) != 0){ 
+                        if(strcmp(e.name,emname) != 0){ 
                             fwrite(&e,recsize,1,ft); 
                         }
                     }
