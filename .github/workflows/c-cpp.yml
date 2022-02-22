@@ -1,0 +1,24 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install
+      run: sudo apt-get install cppcheck
+    - name: Static Analysis
+      run: cppcheck --enable=all 3_Implementation
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
