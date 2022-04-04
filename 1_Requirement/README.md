@@ -57,7 +57,7 @@ This Employee details Management System is very useful to maintain the very larg
 The Employee details management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of maintain the records.
 
 # How:
-This project is implemented to maintain the recod or details of the employe by entering employee or staff id as input.
+This project is implemented to maintain the recod or details of the employee by entering employee or staff id as input.
 
 
 # High Level Requirements:
